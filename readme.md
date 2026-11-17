@@ -1,15 +1,22 @@
 # Business Metrics Analyzer
+
 Учебный проект по дисциплине «Проектирование и разработка бизнесориентированного программного обеспечения».
+
 ## Бизнес-задача
+
 Расчёт и визуализация ключевых показателей эффективности (KPI)
 предприятия.
+
 ## Стек
-- Python 3.10+
-- pandas
-- matplotlib
+
+* Python 3.10+
+* pandas
+* matplotlib
+
 ## Запуск
+
 python -m venv .venv
-source .venv/bin/activate # или .venv\Scripts\activate для
+source .venv/bin/activate # или .venv\\Scripts\\activate для
 Windows
 pip install -r requirements.txt
 python main.py
@@ -22,9 +29,16 @@ python main.py
 
 ## Планируемые метрики
 
-- Средняя выручка за период
-- Рентабельность по направлениям
-- Динамика выручки месяц к месяцу
+* Средняя выручка за период
+* Рентабельность по направлениям
+* Динамика выручки месяц к месяцу
 
 Автор
 Студент группы Б1123-38.03.05ба(1), ФИО Логинов Михаил.
+
+
+
+
+
+:::writing{variant="document" id="58316"}
+
